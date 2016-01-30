@@ -1,3 +1,3 @@
 # react-skeleton
 
-skeleton
+reac-skeleton
